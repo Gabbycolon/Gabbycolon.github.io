@@ -1,0 +1,15 @@
+/*style.css*/
+body{
+    background-color: rgb(255, 192, 231);
+    color:blue;
+	text-align: center;CSS rules to specify families
+
+font-family: 'Karla', sans-serif;
+}
+img {
+  max-width: 100%;
+  height: auto;
+
+}
+.gallery img{}
+
